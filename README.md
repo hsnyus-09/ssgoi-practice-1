@@ -3,7 +3,7 @@ ssgoi 연습하려고 개발중인 사이트입니다. 라이브러리 의존성
 
 ## Run
 ```bash
-$ npm install
+$npm install
 $ npm install @ssgoi/react
 $ npm run dev
 ```

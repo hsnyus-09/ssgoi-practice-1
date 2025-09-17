@@ -6,7 +6,7 @@ ssgoi 사용 연습하려고 만든 사이트 포멧에 적용했으나, 라이�
 
 ## Run
 ```bash
-$ npm install
-$ npm install @ssgoi/react
-$ npm run dev
+npm install
+npm install @ssgoi/react
+npm run dev
 ```

@@ -1,4 +1,5 @@
 import { SsgoiTransition } from "@ssgoi/react";
+import React from "react";
 
 function HomePage() {
   return (
